@@ -10,8 +10,8 @@
 }
 
 .book-card-image {
-  object-fit: contain;
-  /* transform: translate(-200px, 0); */
+  max-height: 312px;
+  transform: translate(-33%, 0);
 }
 
 .book-title {
