@@ -1,0 +1,19 @@
+.book-card {
+  background-color: #efefef;
+  /* height: 400px; */
+}
+
+.book-card-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.book-title {
+  font-size: medium;
+  margin: 0.5rem;
+}
+
+.book-description {
+  font-size: x-small;
+  margin: 0.5rem;
+}
