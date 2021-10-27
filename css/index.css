@@ -3,9 +3,15 @@
   /* height: 400px; */
 }
 
+.book-card-image-frame {
+  max-width: 220px;
+  max-height: 312px;
+  overflow: hidden;
+}
+
 .book-card-image {
-  max-width: 100%;
-  height: auto;
+  object-fit: contain;
+  /* transform: translate(-200px, 0); */
 }
 
 .book-title {
