@@ -42,6 +42,7 @@ body {
 }
 
 .main-story-image {
+  width: 100%;
   align-self: center;
   margin-bottom: 1.75rem;
 }
