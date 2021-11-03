@@ -1,0 +1,92 @@
+body {
+  font-family: "HelveticaNeue", "Noto Sans", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+}
+
+.page-container {
+  /* display: flex;
+  flex-direction: column; */
+  margin: 0 6.75rem;
+}
+
+.logo-head-container {
+  display: flex;
+  justify-content: center;
+
+  margin-top: 4.3rem;
+  margin-bottom: 2.2rem;
+}
+
+.logo-head {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo-underline {
+  width: 11.8rem;
+  height: 1px;
+  border-bottom: 1px solid #636363;
+  margin-top: 1.8rem;
+  align-self: center;
+  /* position: absolute; */
+}
+
+.main-story {
+  display: flex;
+  justify-content: center;
+}
+
+.main-story-content {
+  display: flex;
+  flex-direction: column;
+  max-width: 41rem;
+}
+
+.main-story-image {
+  align-self: center;
+  margin-bottom: 1.75rem;
+}
+
+.main-story-text {
+  font-size: 1.12rem;
+  letter-spacing: 0.07rem;
+  color: #636363;
+  line-height: 150%;
+
+  margin-bottom: 2.63rem;
+}
+
+.main-story-artwork-title {
+  color: #636363;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.block-separater-line {
+  width: 100%;
+  height: 1px;
+  border-bottom: 1px solid #636363;
+  align-self: center;
+  /* position: absolute; */
+  margin-top: 2.63rem;
+  margin-bottom: 2.63rem;
+}
+
+.page-section {
+  display: flex;
+  justify-content: center;
+}
+
+.page-section-title {
+  font-family: Noto Serif TC;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.63rem;
+  line-height: 1.63rem;
+  letter-spacing: 0.11rem;
+
+  color: #000000;
+
+  margin-top: 2.63rem;
+  margin-bottom: 2.63rem;
+}
